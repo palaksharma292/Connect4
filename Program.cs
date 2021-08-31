@@ -1,5 +1,6 @@
 ﻿//Connect 4 Multiplayer game
 //Refer to comments for explanation
+//Creator: Palak Sharma
 
 using System;
 using System.Collections.Generic;
