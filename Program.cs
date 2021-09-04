@@ -291,6 +291,7 @@ namespace Connect4
             //Everytime a player takes a turn, both the variables are updated per requirement
             do
             {
+                Console.Clear();
                 Console.WriteLine($"\n\nPlayer {index + 1}'s Turn");
                 players[index].TakeTurn();
                 index++;
